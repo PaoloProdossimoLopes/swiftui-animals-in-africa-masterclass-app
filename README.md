@@ -1,9 +1,5 @@
-#  TITLE
-DESCRIPTION ...
-
-## 🧰 Example:
-```swift
-```
+#  Savana
+A full multplatform application (iPhone, Mac and iPad) to show where each kind of animal live in savana
 
 ## ℹ️  GETTING STARTED
 ### PREREQUISITES 
@@ -14,7 +10,7 @@ DESCRIPTION ...
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/swiftui-animals-in-africa-masterclass-app.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
